@@ -1,0 +1,5 @@
+class Axios {
+  constructor() {}
+
+  request() {}
+}
